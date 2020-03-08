@@ -1,9 +1,9 @@
 from flask import Flask
 app = Flask (__name__)
 
-@app.route('/')
-def login():
-    return render_template('')
+@app.route('/<name>')
+def  generateResponse(name):
+    return "Welcome, "+name+", to my CSCB20 website!"
 
 # run the app when app.py is run
 if __name__ == '__main__':
