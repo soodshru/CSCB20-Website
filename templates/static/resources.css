@@ -28,10 +28,7 @@ body {
 .footer {
   background-color: #003366;
   overflow: hidden;
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
+  min-height: 12vh;
   padding-top: 20px;
   padding-bottom: 5px;
   font-family:'Poppins', sans-serif;
