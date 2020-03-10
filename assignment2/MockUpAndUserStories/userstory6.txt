@@ -1,1 +1,0 @@
-When the student clicks the lectures page, they should be able see a small description of what was discussed that week and easy access to lecture notes for that week.
