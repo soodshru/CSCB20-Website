@@ -1,0 +1,1 @@
+We want the user to be exposed to all important information of the course on the homepage of our website. Things like annoucements, calendar and syllabus should clearly be shown on the home page.

@@ -1,0 +1,1 @@
+The student should be able to easily distinguish between the assignments and see a little bit about what they are about and the weight they have on the final mark.

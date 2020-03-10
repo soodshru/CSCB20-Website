@@ -1,0 +1,1 @@
+We want the student to be able to load our homepage on a mobile device, as this page contains all the most important information associated with the course.

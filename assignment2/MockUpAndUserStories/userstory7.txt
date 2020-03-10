@@ -1,0 +1,1 @@
+When the resources page is clicked the student should have a description of each online resource and also a way to get to the pages directly with the click of a button.

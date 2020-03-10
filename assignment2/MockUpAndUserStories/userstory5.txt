@@ -1,0 +1,1 @@
+When the student clicks the labs page they should be presented with a clear path to the different lab handouts along with the solutions for that week.

@@ -1,0 +1,1 @@
+We want the student to be able to see a picture with the name of the TA so that they can easily distingush between who they want to contact in case they don't remember their TA's name. This should be on the Contact's page.
