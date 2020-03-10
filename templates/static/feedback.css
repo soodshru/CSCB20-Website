@@ -28,7 +28,7 @@ body {
 .footer {
   background-color: #003366;
   overflow: hidden;
-  position: absolute;
+  min-height: 12vh;
   padding-top: 20px;
   padding-bottom: 5px;
   font-family:'Poppins', sans-serif;
