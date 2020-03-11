@@ -130,13 +130,13 @@ body {
 
 .AnnaInfo {
   float: right;
-  padding-right: 650px;
+  padding-right:600px;
 }
 
 .AnnaImg {
   border : solid;
   border-color: #858383;
-  margin-left: 15px;
+  margin-left: 20px;
 }
 
 .main4 {
