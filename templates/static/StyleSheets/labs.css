@@ -2,7 +2,9 @@ body {
   margin:0px;
   border:0px;
   padding:0px; 
+  background-color: #E9E9E9;
 }
+
 
 .navbar {
   background-color: #003366;
@@ -24,6 +26,28 @@ body {
 .navbar a:hover {
   color: #DA4E35;
   font-size: 28px;
+}
+
+.main1 {
+  margin-top: 90px;
+  background-color: #F1F1F3;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+.section1 {
+  padding-left: 10px;
+  padding-right: 10px;
+  border: solid;
+  border-color: #C8C8C8;
+  display: block;
+}
+
+.section1 h1 {
+  color: #127a8c;
+  font-size: 50px;
+  text-align: center;
+  margin:10px;
 }
 
 .footer {
