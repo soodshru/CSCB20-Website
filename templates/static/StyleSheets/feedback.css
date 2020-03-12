@@ -91,11 +91,11 @@ body {
   margin-bottom: 10px;
   font-size: 15px;
   font-weight: bold;
-  background-color: #91b3bc;
+  background-color: #91CBCE;
 }
 
 input[type=submit]:hover{
-  background-color: #5B7D87;
+  background-color: #127a8c;
 }
 
 .footer {
