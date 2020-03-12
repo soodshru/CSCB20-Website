@@ -20,7 +20,7 @@ body {
   text-align: center;
   padding: 21px 23px;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .navbar a:hover {
@@ -71,11 +71,11 @@ display: block;
 }
 
 .section2{
-padding-left: 10px;
-padding-right: 10px;
-border: solid;
-border-color: #C8C8C8;
-display: block;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: solid;
+  border-color: #C8C8C8;
+  display: block;
 }
 
 .section2 h1{
