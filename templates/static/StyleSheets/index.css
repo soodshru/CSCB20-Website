@@ -95,14 +95,16 @@ body {
   background-color: #F1F1F3;
   margin-left: 70px;
   margin-right: 70px;
+  display: flex;
 }
 
 .section3 {
-  padding-left: 10px;
-  padding-right: 10px;
+  display: flex;
+  flex-direction: column;
+  width : 100%;
   border: solid;
   border-color: #C8C8C8;
-  display: block;
+  flex-wrap: nowrap;
 }
 
 .section3 h1 {
@@ -112,6 +114,7 @@ body {
   font-size: 30px;
   border-bottom: solid;
   border-bottom-color: #B1B1B1;
+  margin-bottom: 0px;
 }
 
 .section3 p {
@@ -124,19 +127,15 @@ body {
   list-style: none;
 }
 
-.section3 li p {
+.section3 p {
   font-size: 17px;
+  margin-top: 0px;
 }
 
 .AnnaInfo {
-  float: right;
-  padding-right:600px;
-}
-
-.AnnaImg {
-  border : solid;
-  border-color: #858383;
-  margin-left: 20px;
+  display: flex;
+  order: 2;
+  flex-grow: 1;
 }
 
 .main4 {
@@ -152,6 +151,10 @@ body {
   border: solid;
   border-color: #C8C8C8;
   display: block;
+}
+
+iframe {
+  width : -webkit-fill-available;
 }
 
 .section4 h1 {
@@ -175,7 +178,8 @@ body {
   padding-right: 10px;
   border: solid;
   border-color: #C8C8C8;
-  display: block;
+  display: flex;
+  flex-direction: column;
 }
 
 .section5 h1 {
