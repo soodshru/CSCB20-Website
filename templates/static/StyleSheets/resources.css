@@ -56,6 +56,11 @@ body {
   margin-right: 70px;
 }
 
+.section2 a:hover{
+  color: #00496a;
+  font-weight:bold;
+}
+
 .section2 {
   padding-left: 10px;
   padding-right: 10px;
