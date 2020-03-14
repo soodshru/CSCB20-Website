@@ -28,6 +28,8 @@ body {
   font-size: 28px;
 }
 
+
+
 .main1 {
   margin-top: 90px;
   background-color: #F1F1F3;
@@ -77,6 +79,11 @@ body {
 
 .section2 ul {
   list-style: none;
+}
+
+.section2 a:hover{
+  color: #00496a;
+  font-weight:bold;
 }
 
 .section2 li p {

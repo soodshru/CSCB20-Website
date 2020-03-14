@@ -67,6 +67,11 @@ body {
   font-size: 18px;
 }
 
+.section2 a:hover{
+  color: #00496a;
+  font-weight:bold;
+}
+
 .section2 ul {
   list-style: none;
   border-bottom: solid;
