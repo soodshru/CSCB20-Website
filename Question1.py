@@ -2,10 +2,9 @@ from flask import Flask
 app = Flask (__name__)
 
 @app.route('/<name>')
-@app.route('/')
-def  generateResponse(name=''):
-        if (name == ''):
-            return "Welcome, unknown, to my CSCB20 website";
+def  generateResponse(name):
+        if (name == ""):
+            return "Welcome to my CSCB20 website";
         if (name.isupper() and name.isalpha()):
             WelcomeName = name.lower();
         elif (name.islower() and name.isalpha()) :
