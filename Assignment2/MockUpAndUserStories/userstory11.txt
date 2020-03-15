@@ -1,0 +1,1 @@
+The footer will be found at the bottom of each tab and it will include who made the sites and a link to the Faculty of Computer Science at UofT.

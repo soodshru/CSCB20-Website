@@ -1,0 +1,1 @@
+When the students clicks on the resources tab, there will be a Links section which will include a link to the class website, a tutorial for MySQL, Piazza (Discussion board) and the email of the teacher.
