@@ -1,1 +1,0 @@
-When the students clicks on the evaluations tab, they should be able to see an assignments sections where they will find due date, the weight of each assignment, where to submit it, the handout and the solutions when the due date has passed.

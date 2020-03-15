@@ -1,1 +1,0 @@
-Once the students clicks on the announcements tab, they should be able to see all the announcements in order, with most recent at the top, and the date on which they were posted on.

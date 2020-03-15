@@ -1,1 +1,0 @@
-When the student clicks the labs tab, the page will be divided into weeks and they should be able to click on the links to find the tutorial handouts and the corresponding solutions

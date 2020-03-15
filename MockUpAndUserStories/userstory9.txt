@@ -1,1 +1,0 @@
-When the students clicks on the resources tab, there will be a Software & Documentation section which will include instructions on how to login to Mathlab from a Mac OS and Windows.
