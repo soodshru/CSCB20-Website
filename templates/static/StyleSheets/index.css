@@ -67,6 +67,11 @@ body {
   display: block;
 }
 
+.section2 a:hover{
+  color: #00496a;
+  font-weight:bold;
+}
+
 .section2 h1 {
   color: #127a8c;
   padding-bottom: 10px;
