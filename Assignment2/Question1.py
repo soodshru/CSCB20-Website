@@ -2,10 +2,13 @@ from flask import Flask
 app = Flask (__name__)
 
 @app.route('/<name>')
-def  generateResponse(name):
-        if (name == ""):
-            return "Welcome to my CSCB20 website";
-        if (name.isupper() and name.isalpha()):
+@app.route('/')
+def  generateResponse(name = ''):
+        #case where no name is passed
+        if (name == ''):
+            WelcomeName = "Unknown";
+        #cases where some name is passed
+        elif (name.isupper() and name.isalpha()):
             WelcomeName = name.lower();
         elif (name.islower() and name.isalpha()) :
             WelcomeName = name.upper();
@@ -20,6 +23,6 @@ def  generateResponse(name):
         return "Welcome, "+WelcomeName+", to my CSCB20 website!";
 
 
-# run the app when app.py is run
+# run the app when question1.py is run
 if __name__ == '__main__':
     app.run()

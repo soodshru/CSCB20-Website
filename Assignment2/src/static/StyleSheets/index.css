@@ -8,10 +8,11 @@ body {
 .navbar {
   background-color: #003366;
   top: 0;
-  position: fixed;
+  position: sticky;
   overflow: hidden;
   width: 100%;
 }
+
 .navbar a {
   float: left;
   color: white;
@@ -203,9 +204,14 @@ iframe {
   margin : 23px;
 }
 
+#teambox{
+  position: relative;
+}
+
 .Img1 {
   border : solid;
   border-color: #858383;
+  position: relative;
 }
 
 .Img2 {
