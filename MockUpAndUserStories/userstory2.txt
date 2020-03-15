@@ -1,0 +1,1 @@
+On the home page the students must be able to see the instructors informations (office hours, email, etc.) and they should be able to see the course calendar and the TAs which are teaching the course.

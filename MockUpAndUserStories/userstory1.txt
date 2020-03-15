@@ -1,0 +1,1 @@
+On the home page, the students must be able to see the prerequisites, exclusions and the syllabus for the course.
