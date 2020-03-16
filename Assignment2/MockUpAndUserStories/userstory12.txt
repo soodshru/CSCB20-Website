@@ -1,1 +1,1 @@
-Header should be sticky to the top of the page and contain links to each page. It should be contant throught all pages.
+Header should be sticky to the top of the page and contain links to each page. It should be constant throughout all pages.
